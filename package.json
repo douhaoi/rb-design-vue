@@ -1,0 +1,17 @@
+{
+  "name": "rb-design-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rb-design-vue/components": "workspace:^",
+    "@rb-design-vue/hook": "workspace:^",
+    "@rb-design-vue/utils": "workspace:^"
+  }
+}
